@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<div padding="8px">
+<div padding="10px" style="display: flex">
 
 <a href="https://www.linkedin.com/in/siguenzajohneric" target="_blank">    
 <img src="assets/linkedin.png" width="20px" height="20px" style="font-size: 25px; padding-right: 10px"></i>
