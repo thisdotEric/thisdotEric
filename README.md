@@ -1,22 +1,9 @@
 ### Hi 👋👋👋
 
-### Connect with me:
+### Connect with me
 
-<div padding="10px" style="display: flex">
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siguenzajohneric)
 
-<a href="https://www.linkedin.com/in/siguenzajohneric" target="_blank">    
-<img src="assets/linkedin.png" width="20px" height="20px" style="font-size: 25px; padding-right: 10px"></i>
-</a>
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thisdotEric)
 
-<a href="https://twitter.com/thisdotEric" target="_blank">    
-<img src="assets/twitter.png" width="20px" height="20px" style="font-size: 25px; padding-right: 10px"></i>
-</a>
-</div>
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisdotEric&theme=soft-green)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisdotEric&layout=compact&langs_count=8&theme=dracula)](https://github.com/thisdotEric)
-
--->
+<br>
